@@ -1,1 +1,8 @@
-
+{
+    "owner": {
+        "username": "jdev-king"
+    },
+    "record": {
+        "CNAME": "jdev-king.github.io"
+    }
+}
